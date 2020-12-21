@@ -1,0 +1,27 @@
+{
+  "name": "nodeebs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saisun229/ebstalkaws.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Sai Mudhiganti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saisun229/ebstalkaws/issues"
+  },
+  "homepage": "https://github.com/saisun229/ebstalkaws#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "nodemon": "^2.0.6"
+  }
+}
